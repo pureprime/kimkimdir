@@ -1,0 +1,881 @@
+[
+  {
+    "soru": "En çok demir üretimi yapılan şehir hangisidir?",
+    "siklar": [
+      {"text": "Karabük", "isCorrect": true},
+      {"text": "Zonguldak", "isCorrect": false},
+      {"text": "Kırıkkale", "isCorrect": false},
+      {"text": "Adana", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Bir turist, sırasıyla Erzurum, Erzincan, Sivas, Tokat, Çorum, Ankara şehirlerini ziyaret edip Ankara'da kalıyor. Toplamda kaç bölgeden geçmiş olur?",
+    "siklar": [
+      {"text": "5", "isCorrect": true},
+      {"text": "6", "isCorrect": false},
+      {"text": "7", "isCorrect": false},
+      {"text": "8", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Karakum Ocağı ve Muminaga Koruluğu'na sahip olan Türkiye'nin doğal limanı olan şehir hangisidir?",
+    "siklar": [
+      {"text": "İzmir", "isCorrect": false},
+      {"text": "İstanbul", "isCorrect": false},
+      {"text": "Antalya", "isCorrect": false},
+      {"text": "Mersin", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Türkiye 81 ilinden oluşur ve birçok şehrinde şeker fabrikası mevcuttur. Hangi şehrimizde şeker fabrikası yoktur?",
+    "siklar": [
+      {"text": "Konya", "isCorrect": false},
+      {"text": "Kayseri", "isCorrect": false},
+      {"text": "Kütahya", "isCorrect": false},
+      {"text": "Malatya", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Şeker kamışı ve şeker pancarı üretimi hangi illerimizde yapılmaktadır?",
+    "siklar": [
+      {"text": "Tekirdağ, Kırklareli", "isCorrect": false},
+      {"text": "Kastamonu, Sinop", "isCorrect": false},
+      {"text": "Manisa, Afyonkarahisar", "isCorrect": true},
+      {"text": "Aksaray, Niğde", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Türkiye Bölgesel Kalkınma Projesi uygulaması için toplamda 5 bölüme ayrılmıştır. Aşağıdaki bölgelerden hangisi bu bölgelerden biri değildir?",
+    "siklar": [
+      {"text": "Marmara Bölgesi", "isCorrect": false},
+      {"text": "Karadeniz Bölgesi", "isCorrect": true},
+      {"text": "İç Anadolu Bölgesi", "isCorrect": false},
+      {"text": "Doğu Anadolu Bölgesi", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Brandenburg Kapısı hangi şehirde bulunmaktadır?",
+    "siklar": [
+      {"text": "Berlin", "isCorrect": true},
+      {"text": "Paris", "isCorrect": false},
+      {"text": "Londra", "isCorrect": false},
+      {"text": "Roma", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Arnavutluk'un başkenti neresidir?",
+    "siklar": [
+      {"text": "Priştine", "isCorrect": false},
+      {"text": "Tirana", "isCorrect": true},
+      {"text": "Üsküp", "isCorrect": false},
+      {"text": "Podgorica", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Türkiye'ye sınırı olan toplam kaç devlet vardır?",
+    "siklar": [
+      {"text": "6", "isCorrect": false},
+      {"text": "7", "isCorrect": false},
+      {"text": "8", "isCorrect": true},
+      {"text": "9", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "1945 yılında Türkiye Cumhuriyeti'ne komşu devlet sayısı kaçtır?",
+    "siklar": [
+      {"text": "3", "isCorrect": false},
+      {"text": "4", "isCorrect": false},
+      {"text": "5", "isCorrect": true},
+      {"text": "6", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Kerkük hangi devlete bağlıdır?",
+    "siklar": [
+      {"text": "Suriye", "isCorrect": false},
+      {"text": "Türkiye", "isCorrect": false},
+      {"text": "İran", "isCorrect": false},
+      {"text": "Irak", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Türkiye'de kaç şehirde demir-çelik fabrikası vardır?",
+    "siklar": [
+      {"text": "5", "isCorrect": false},
+      {"text": "10", "isCorrect": false},
+      {"text": "15", "isCorrect": true},
+      {"text": "20", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Varna şehri hangi ülkededir?",
+    "siklar": [
+      {"text": "Yunanistan", "isCorrect": false},
+      {"text": "Romanya", "isCorrect": false},
+      {"text": "Bulgaristan", "isCorrect": true},
+      {"text": "Makedonya", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Eski dilde Thyateira olarak adlandırılan ve Hristiyanlar tarafından kutsal kilise anlamına gelen şehrimiz hangisidir?",
+    "siklar": [
+      {"text": "İstanbul", "isCorrect": false},
+      {"text": "İzmir", "isCorrect": true},
+      {"text": "Antakya", "isCorrect": false},
+      {"text": "Ankara", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "M.S. 4. yüzyılda yaşamış ünlü Noel Baba'nın yaşadığı Antalya'daki bir ilçemiz hangisidir?",
+    "siklar": [
+      {"text": "Alanya", "isCorrect": false},
+      {"text": "Manavgat", "isCorrect": false},
+      {"text": "Kaş", "isCorrect": false},
+      {"text": "Demre", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "St. Antoine Kilisesi hangi şehrimizdedir?",
+    "siklar": [
+      {"text": "İstanbul", "isCorrect": true},
+      {"text": "İzmir", "isCorrect": false},
+      {"text": "Bursa", "isCorrect": false},
+      {"text": "Antalya", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "İstanbul'a komşu kaç şehir vardır?",
+    "siklar": [
+      {"text": "5", "isCorrect": false},
+      {"text": "6", "isCorrect": false},
+      {"text": "7", "isCorrect": false},
+      {"text": "8", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Yerel saat farkı nedir?",
+    "siklar": [
+      {"text": "Dünya saatine göre zaman farkı", "isCorrect": false},
+      {"text": "Bir yerdeki saat ile Greenwich'in ortalama saatine olan fark", "isCorrect": true},
+      {"text": "Bir yerin kendi saatini belirleme", "isCorrect": false},
+      {"text": "Zaman dilimi farkı", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Dünya'nın hem günlük hem de yıllık hareketinin ortak sonucu nedir?",
+    "siklar": [
+      {"text": "Mehtap", "isCorrect": false},
+      {"text": "Aydınlık", "isCorrect": false},
+      {"text": "Günbatımı", "isCorrect": true},
+      {"text": "Güneşin doğuşu", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Enlem ismi nedir?",
+    "siklar": [
+      {"text": "Doğu veya batı uzaklığını belirten çizgilerin her biri", "isCorrect": true},
+      {"text": "Kutuplara yakın bölgelerin sınırlarını belirleyen çizgi", "isCorrect": false},
+      {"text": "Ekvator'un adı", "isCorrect": false},
+      {"text": "Kutup dairesi", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Kuzey yarım kürede yaz mevsimi yaşanırken güney yarım kürede hangi mevsim yaşanır?",
+    "siklar": [
+      {"text": "Kış", "isCorrect": true},
+      {"text": "Sonbahar", "isCorrect": false},
+      {"text": "İlkbahar", "isCorrect": false},
+      {"text": "Yaz", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Çölleşme nedir?",
+    "siklar": [
+      {"text": "Kum fırtınalarının sıkça görüldüğü alanlar", "isCorrect": false},
+      {"text": "Tarım yapılan alanların genişlemesi", "isCorrect": false},
+      {"text": "Toprağın verimliliğini kaybetmesi ve çöle dönüşmesi", "isCorrect": true},
+      {"text": "Bitki örtüsünün artması", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi doğal bitki örtüsünün tahrip olmasına neden olmaz?",
+    "siklar": [
+      {"text": "Orman yangınları", "isCorrect": false},
+      {"text": "Tarım alanlarının genişlemesi", "isCorrect": false},
+      {"text": "Hava kirliliği", "isCorrect": false},
+      {"text": "Toprağın sulanması", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "İntansif tarım yöntemleri nelerdir?",
+    "siklar": [
+      {"text": "Toprağı koruyan yöntemler", "isCorrect": false},
+      {"text": "Geleneksel tarım yöntemleri", "isCorrect": false},
+      {"text": "Yüksek verim almayı amaçlayan tarım yöntemleri", "isCorrect": true},
+      {"text": "Biyoçeşitliliği artıran tarım yöntemleri", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi yenilenebilir enerji kaynaklarına örnek gösterilemez?",
+    "siklar": [
+      {"text": "Rüzgar enerjisi", "isCorrect": false},
+      {"text": "Güneş enerjisi", "isCorrect": false},
+      {"text": "Kömür", "isCorrect": true},
+      {"text": "Hidroelektrik enerji", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Avrupa kıtasında kış turizminin en çok geliştiği şehir hangisidir?",
+    "siklar": [
+      {"text": "Zürih", "isCorrect": false},
+      {"text": "Paris", "isCorrect": false},
+      {"text": "Viyana", "isCorrect": false},
+      {"text": "Innsbruck", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Palandöken Dağları hangi bölgemizde yer alır?",
+    "siklar": [
+      {"text": "Marmara", "isCorrect": false},
+      {"text": "Doğu Anadolu", "isCorrect": true},
+      {"text": "Karadeniz", "isCorrect": false},
+      {"text": "Ege", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Karadeniz Bölgesi'nde toplam kaç şehir vardır?",
+    "siklar": [
+      {"text": "14", "isCorrect": false},
+      {"text": "18", "isCorrect": true},
+      {"text": "20", "isCorrect": false},
+      {"text": "22", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi doğal güzelliklerimizden biri değildir?",
+    "siklar": [
+      {"text": "Saklıkent Kanyonu", "isCorrect": false},
+      {"text": "Sümela Manastırı", "isCorrect": false},
+      {"text": "Mevlana Türbesi", "isCorrect": true},
+      {"text": "Nemrut Dağı", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Nevşehir'in tarihi yer altı şehri nedir?",
+    "siklar": [
+      {"text": "Derinkuyu", "isCorrect": true},
+      {"text": "Ürgüp", "isCorrect": false},
+      {"text": "Avanos", "isCorrect": false},
+      {"text": "Göreme", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Karadeniz Bölgesi'nde hangi şehir sahil şeridine sahip değildir?",
+    "siklar": [
+      {"text": "Trabzon", "isCorrect": false},
+      {"text": "Rize", "isCorrect": false},
+      {"text": "Samsun", "isCorrect": true},
+      {"text": "Ordu", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Türkiye'de en çok hangi maden çıkarılır?",
+    "siklar": [
+      {"text": "Bor", "isCorrect": true},
+      {"text": "Demir", "isCorrect": false},
+      {"text": "Altın", "isCorrect": false},
+      {"text": "Kömür", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Türkiye'nin en kuzey ilçesi hangisidir?",
+    "siklar": [
+      {"text": "İnebolu", "isCorrect": false},
+      {"text": "Eskipazar", "isCorrect": false},
+      {"text": "Ardeşen", "isCorrect": false},
+      {"text": "Şile", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Aşağıdaki ilçelerimizden hangisi Karadeniz Bölgesi'nde yer almaz?",
+    "siklar": [
+      {"text": "Sürmene", "isCorrect": false},
+      {"text": "Eynesil", "isCorrect": false},
+      {"text": "Fındıklı", "isCorrect": false},
+      {"text": "Kağızman", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Karadeniz Bölgesi'nde kaç il vardır?",
+    "siklar": [
+      {"text": "14", "isCorrect": true},
+      {"text": "16", "isCorrect": false},
+      {"text": "18", "isCorrect": false},
+      {"text": "20", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Neden hava olayları gözlemlenir?",
+    "siklar": [
+      {"text": "Küresel ısınma etkisini ölçmek için", "isCorrect": false},
+      {"text": "Ülkelerin hava durumunu belirlemek için", "isCorrect": false},
+      {"text": "Tarım ve hayvancılık alanlarında kullanılmak üzere", "isCorrect": false},
+      {"text": "Yaşanan doğal afetlerden korunmak için", "isCorrect": true}
+    ]
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi Türkiye'nin kuzeydoğu sınırında yer alan bir ülkedir?",
+    "siklar": [
+      {"text": "İran", "isCorrect": false},
+      {"text": "Suriye", "isCorrect": false},
+      {"text": "Gürcistan", "isCorrect": true},
+      {"text": "Irak", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Yer şekillerinin ortaya çıkışı hangi süreç sonucu gerçekleşir?",
+    "siklar": [
+      {"text": "Dünya'nın çekirdeğinin soğuması", "isCorrect": false},
+      {"text": "Kıtaların kayma ve çarpışması", "isCorrect": true},
+      {"text": "Volkanik patlamalar", "isCorrect": false},
+      {"text": "Meteor çarpmaları", "isCorrect": false}
+    ]
+  },
+  {
+    "soru": "Aşağıdaki ülkelerden hangisi Balkan Yarımadası'nda yer almaz?",
+    "siklar": [
+      {"text": "Yunanistan", "isCorrect": false},
+      {"text": "Sırbistan", "isCorrect": false},
+      {"text": "Macaristan", "isCorrect": true},
+      {"text": "Romanya", "isCorrect": false}
+    ]
+  },
+
+    {
+      "soru": "Tuz Gölü'ne komşu olan iller hangileridir?",
+      "siklar": [
+        {"text": "Ankara, Konya", "isCorrect": false},
+        {"text": "Ankara, Eskişehir", "isCorrect": false},
+        {"text": "Ankara, Konya, Nevşehir", "isCorrect": false},
+        {"text": "Ankara, Konya, Aksaray", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Hangi dağ ismi Türkiye'de yoktur?",
+      "siklar": [
+        {"text": "Ağrı Dağı", "isCorrect": false},
+        {"text": "Toros Dağları", "isCorrect": false},
+        {"text": "Karakoram Dağları", "isCorrect": true},
+        {"text": "Kaçkar Dağları", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye kaç coğrafi bölgeye ayrılmıştır?",
+      "siklar": [
+        {"text": "5", "isCorrect": false},
+        {"text": "6", "isCorrect": false},
+        {"text": "7", "isCorrect": true},
+        {"text": "8", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye'de heyelan riskinin en çok olduğu yer neresidir?",
+      "siklar": [
+        {"text": "Boğaziçi", "isCorrect": false},
+        {"text": "Marmara Bölgesi", "isCorrect": false},
+        {"text": "Doğu Anadolu Bölgesi", "isCorrect": true},
+        {"text": "Karadeniz Bölgesi", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Arkeoloji nedir?",
+      "siklar": [
+        {"text": "Bitki bilimi", "isCorrect": false},
+        {"text": "Eski eser bilimi", "isCorrect": true},
+        {"text": "Taş bilimi", "isCorrect": false},
+        {"text": "Hayvan bilimi", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Ege bölgesi toplam kaç ilden oluşur?",
+      "siklar": [
+        {"text": "5", "isCorrect": false},
+        {"text": "6", "isCorrect": false},
+        {"text": "7", "isCorrect": false},
+        {"text": "8", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Marmara bölgesinde zeytin yetiştiriciliği aşağıdaki illerden hangisinde yapılmaz?",
+      "siklar": [
+        {"text": "İstanbul", "isCorrect": false},
+        {"text": "Balıkesir", "isCorrect": false},
+        {"text": "Çanakkale", "isCorrect": false},
+        {"text": "Sakarya", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Pedoloji nedir?",
+      "siklar": [
+        {"text": "Toprak bilimi", "isCorrect": true},
+        {"text": "Yer şekilleri bilimi", "isCorrect": false},
+        {"text": "İklim bilimi", "isCorrect": false},
+        {"text": "Su bilimi", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye'deki en alçak nokta neresidir?",
+      "siklar": [
+        {"text": "Marmara Denizi", "isCorrect": false},
+        {"text": "Aral Gölü", "isCorrect": true},
+        {"text": "Van Gölü", "isCorrect": false},
+        {"text": "Akdeniz", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye'deki en yüksek nokta neresidir?",
+      "siklar": [
+        {"text": "Ağrı Dağı", "isCorrect": true},
+        {"text": "Kaz Dağı", "isCorrect": false},
+        {"text": "Uludağ", "isCorrect": false},
+        {"text": "Erciyes Dağı", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Süveyş Kanalı nerededir?",
+      "siklar": [
+        {"text": "Afrika", "isCorrect": true},
+        {"text": "Asya", "isCorrect": false},
+        {"text": "Avrupa", "isCorrect": false},
+        {"text": "Okyanuslar", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Süveyş Kanalı hangi tarihte yapılmıştır?",
+      "siklar": [
+        {"text": "1859", "isCorrect": false},
+        {"text": "1869", "isCorrect": true},
+        {"text": "1879", "isCorrect": false},
+        {"text": "1889", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Kiel Kanalı nerededir?",
+      "siklar": [
+        {"text": "Avrupa", "isCorrect": true},
+        {"text": "Asya", "isCorrect": false},
+        {"text": "Amerika", "isCorrect": false},
+        {"text": "Avustralya", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Kiel Kanalı hangi tarihte yapılmıştır?",
+      "siklar": [
+        {"text": "1880", "isCorrect": false},
+        {"text": "1890", "isCorrect": true},
+        {"text": "1900", "isCorrect": false},
+        {"text": "1910", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Dover Boğazı hangi tarihte kim tarafından yapılmıştır?",
+      "siklar": [
+        {"text": "Mısırlılar, MÖ 1250", "isCorrect": false},
+        {"text": "Romalılar, MS 46", "isCorrect": true},
+        {"text": "Osmanlılar, 1515", "isCorrect": false},
+        {"text": "İngilizler, 1825", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Hürmüz Boğazı nerededir?",
+      "siklar": [
+        {"text": "Afrika", "isCorrect": false},
+        {"text": "Asya", "isCorrect": true},
+        {"text": "Avrupa", "isCorrect": false},
+        {"text": "Okyanuslar", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Hürmüz Boğazı hangi devletin kontrolündedir?",
+      "siklar": [
+        {"text": "Suudi Arabistan", "isCorrect": false},
+        {"text": "İran", "isCorrect": true},
+        {"text": "Irak", "isCorrect": false},
+        {"text": "Umman", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Fırat nehrinin geçtiği ülkeler aşağıdaki şıklardan hangisine sırasıyla doğru verilmiştir?",
+      "siklar": [
+        {"text": "Türkiye, Irak, Suriye", "isCorrect": true},
+        {"text": "Suriye, Türkiye, Irak", "isCorrect": false},
+        {"text": "Irak, Suriye, Türkiye", "isCorrect": false},
+        {"text": "Türkiye, Suriye, Irak", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Fırat nehrinin üzerinde kaç adet baraj vardır?",
+      "siklar": [
+        {"text": "1", "isCorrect": false},
+        {"text": "2", "isCorrect": false},
+        {"text": "3", "isCorrect": false},
+        {"text": "4", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Fırat nehrinin kaynağı hangi ilden başlar?",
+      "siklar": [
+        {"text": "Bingöl", "isCorrect": true},
+        {"text": "Elazığ", "isCorrect": false},
+        {"text": "Muş", "isCorrect": false},
+        {"text": "Van", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye'deki toplam kaç nehir yatağı vardır?",
+      "siklar": [
+        {"text": "1000'den fazla", "isCorrect": true},
+        {"text": "500'den fazla", "isCorrect": false},
+        {"text": "200'den fazla", "isCorrect": false},
+        {"text": "100'den fazla", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Türkiye'deki en büyük 3 nehirin ismi nedir?",
+      "siklar": [
+        {"text": "Fırat, Dicle, Seyhan", "isCorrect": true},
+        {"text": "Sakarya, Kızılırmak, Meriç", "isCorrect": false},
+        {"text": "Yeşilırmak, Çoruh, Aras", "isCorrect": false},
+        {"text": "Ergene, Büyük Menderes, Gediz", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Su kaynaklarını tatlı ve tuzlu su kaynakları olarak sınıflandırmak mümkündür. Dünyadaki suların %97’sini tuzlu sular, %3’ünü ise tatlı sular oluşturmaktadır. Dünyada bulunan en büyük tatlı su kaynağı aşağıdakilerden hangisidir?",
+      "siklar": [
+        {"text": "Göller", "isCorrect": true},
+        {"text": "Denizler", "isCorrect": false},
+        {"text": "Yeraltı akiferleri", "isCorrect": false},
+        {"text": "Akarsular", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "İtalya'da kaç adet volkan vardır?",
+      "siklar": [
+        {"text": "1", "isCorrect": false},
+        {"text": "2", "isCorrect": false},
+        {"text": "3", "isCorrect": true},
+        {"text": "4", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Roma nerededir?",
+      "siklar": [
+        {"text": "Fransa", "isCorrect": false},
+        {"text": "İtalya", "isCorrect": true},
+        {"text": "İspanya", "isCorrect": false},
+        {"text": "Yunanistan", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Allahu Ekber Dağları hangi bölgede yer almaktadır?",
+      "siklar": [
+        {"text": "Himalayalar", "isCorrect": true},
+        {"text": "Alpler", "isCorrect": false},
+        {"text": "Andlar", "isCorrect": false},
+        {"text": "Karakoram", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Subtropikal yağmur ormanı nedir?",
+      "siklar": [
+        {"text": "Kutuplara yakın ormanlar", "isCorrect": false},
+        {"text": "Sıcak ve nemli iklim bölgelerinde bulunan ormanlar", "isCorrect": true},
+        {"text": "Sert kış koşullarına uyum sağlayan ormanlar", "isCorrect": false},
+        {"text": "Ormanların yok olduğu alanlar", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Kuru yağmur ormanları hangi kıtada yer almaktadır?",
+      "siklar": [
+        {"text": "Asya", "isCorrect": false},
+        {"text": "Avrupa", "isCorrect": false},
+        {"text": "Afrika", "isCorrect": true},
+        {"text": "Güney Amerika", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Ağaç çeşitliliğinin en fazla olduğu kıta hangisidir?",
+      "siklar": [
+        {"text": "Avrupa", "isCorrect": false},
+        {"text": "Asya", "isCorrect": false},
+        {"text": "Afrika", "isCorrect": true},
+        {"text": "Güney Amerika", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Hint Okyanusu'na kıyısı olan toplam kaç ülke vardır?",
+      "siklar": [
+        {"text": "10", "isCorrect": false},
+        {"text": "15", "isCorrect": false},
+        {"text": "20", "isCorrect": false},
+        {"text": "25", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Dünyada kaç kıta vardır?",
+      "siklar": [
+        {"text": "4", "isCorrect": false},
+        {"text": "5", "isCorrect": false},
+        {"text": "6", "isCorrect": false},
+        {"text": "7", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Antarktika kaç kilometrekaredir?",
+      "siklar": [
+        {"text": "5 milyon", "isCorrect": false},
+        {"text": "10 milyon", "isCorrect": false},
+        {"text": "15 milyon", "isCorrect": false},
+        {"text": "20 milyon", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "İsveç'in başkenti neresidir?",
+      "siklar": [
+        {"text": "Oslo", "isCorrect": false},
+        {"text": "Kopenhag", "isCorrect": false},
+        {"text": "Helsinki", "isCorrect": false},
+        {"text": "Stokholm", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Victoria Şelaleri hangi ülkededir?",
+      "siklar": [
+        {"text": "Kanada", "isCorrect": false},
+        {"text": "ABD", "isCorrect": false},
+        {"text": "Brezilya", "isCorrect": false},
+        {"text": "Avustralya", "isCorrect": true}
+      ]
+    },
+    {
+      "soru": "Hangi illerimizde bor madeni mevcuttur?",
+      "siklar": [
+        {"text": "Konya, Nevşehir", "isCorrect": true},
+        {"text": "Muğla, Aydın", "isCorrect": false},
+        {"text": "Balıkesir, Çanakkale", "isCorrect": false},
+        {"text": "Bursa, Bilecik", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Uludağ kaç metre yüksekliğe sahiptir?",
+      "siklar": [
+        {"text": "2150 m", "isCorrect": false},
+        {"text": "2349 m", "isCorrect": false},
+        {"text": "2543 m", "isCorrect": true},
+        {"text": "2899 m", "isCorrect": false}
+      ]
+    },
+    {
+      "soru": "Bursa şehrinin bitki örtüsü nedir?",
+      "siklar": [
+        {"text": "Ormanlar", "isCorrect": true},
+        {"text": "Çöl", "isCorrect": false},
+        {"text": "Step", "isCorrect": false},
+        {"text": "Tundra", "isCorrect": false}
+      ]
+    },
+  
+    
+      {
+        "soru": "Bir fiziksel haritada, aşağıdaki renklerden hangisi yükseltinin en az olduğu alanı belirtir?",
+        "siklar": [
+          {"text": "Sarı", "isCorrect": false},
+          {"text": "Yeşil", "isCorrect": false},
+          {"text": "Mavi", "isCorrect": true},
+          {"text": "Kahverengi", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Bir cismin yıl içindeki gölge boyunun değişimini gösteren grafikten, aşağıdakilerden hangisine ulaşılamaz?",
+        "siklar": [
+          {"text": "Güneşin hareket ettiği günlerin tespiti", "isCorrect": false},
+          {"text": "Yılın mevsimlerinin belirlenmesi", "isCorrect": false},
+          {"text": "Cismin hacminin hesaplanması", "isCorrect": false},
+          {"text": "Cismin yıl içindeki hızının hesaplanması", "isCorrect": true}
+        ]
+      },
+      {
+        "soru": "Yüksek enlemlerde yaşayan insanlar kalın, alçak enlemlerde yaşayan insanlar ise ince giysileri tercih etmektedir. Bu durum aşağıdakilerden hangisi ile açıklanabilir?",
+        "siklar": [
+          {"text": "Düşük basınç", "isCorrect": false},
+          {"text": "Yüksek basınç", "isCorrect": true},
+          {"text": "Rüzgar", "isCorrect": false},
+          {"text": "Atmosferdeki su buharı", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Taş küre (litosfer) üzerindeki yer şekillerinin oluşum özelliklerini inceleyen coğrafyanın alt bölümü aşağıdakilerden hangisidir?",
+        "siklar": [
+          {"text": "Jeomorfoloji", "isCorrect": true},
+          {"text": "Pedoloji", "isCorrect": false},
+          {"text": "İklim coğrafyası", "isCorrect": false},
+          {"text": "Hidroloji", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Aşağıdaki ülkelerin hangisinde iç hat ulaşımında hava yolları daha fazla kullanılmaktadır?",
+        "siklar": [
+          {"text": "Hindistan", "isCorrect": false},
+          {"text": "İngiltere", "isCorrect": false},
+          {"text": "Rusya", "isCorrect": false},
+          {"text": "Malezya", "isCorrect": true}
+        ]
+      },
+      {
+        "soru": "Aşağıdakilerden hangisi demir yolu ağının yoğun olduğu alanlar arasında gösterilemez?",
+        "siklar": [
+          {"text": "Kuzey Amerika", "isCorrect": false},
+          {"text": "Avrupa", "isCorrect": false},
+          {"text": "Orta Afrika", "isCorrect": true},
+          {"text": "Japonya", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Nil deltasının uzunluğu nedir?",
+        "siklar": [
+          {"text": "150 km", "isCorrect": false},
+          {"text": "200 km", "isCorrect": true},
+          {"text": "300 km", "isCorrect": false},
+          {"text": "400 km", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Nil deltasının bulunduğu yer neresidir?",
+        "siklar": [
+          {"text": "Sudan", "isCorrect": false},
+          {"text": "Mısır", "isCorrect": true},
+          {"text": "Nijerya", "isCorrect": false},
+          {"text": "Etiyopya", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Nil nehri kaç ülkeden geçmektedir?",
+        "siklar": [
+          {"text": "2", "isCorrect": false},
+          {"text": "3", "isCorrect": true},
+          {"text": "4", "isCorrect": false},
+          {"text": "5", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Eski zamanlarda Nil nehrinin ismi nedir?",
+        "siklar": [
+          {"text": "Mısır Nehri", "isCorrect": false},
+          {"text": "Yeşil Nehir", "isCorrect": true},
+          {"text": "Zambezi Nehri", "isCorrect": false},
+          {"text": "Afrika Nehir", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Nil havzasında kurulmuş kaç tane krallık vardır?",
+        "siklar": [
+          {"text": "1", "isCorrect": false},
+          {"text": "2", "isCorrect": false},
+          {"text": "3", "isCorrect": true},
+          {"text": "4", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Nil nehrindeki tarihi olaylar nelerdir?",
+        "siklar": [
+          {"text": "İnka İmparatorluğu'nun kuruluşu", "isCorrect": false},
+          {"text": "Roma İmparatorluğu'nun yıkılışı", "isCorrect": false},
+          {"text": "Mısır medeniyetinin gelişimi", "isCorrect": true},
+          {"text": "Antik Yunan dönemindeki savaşlar", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Jeomorfoloji nedir?",
+        "siklar": [
+          {"text": "Toprak bilimi", "isCorrect": false},
+          {"text": "Yer şekilleri bilimi", "isCorrect": true},
+          {"text": "İklim bilimi", "isCorrect": false},
+          {"text": "Su bilimi", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Dünya kaç katmandan oluşur?",
+        "siklar": [
+          {"text": "2", "isCorrect": false},
+          {"text": "3", "isCorrect": true},
+          {"text": "4", "isCorrect": false},
+          {"text": "5", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Ekvator kaç kilometredir?",
+        "siklar": [
+          {"text": "10.000 km", "isCorrect": false},
+          {"text": "20.000 km", "isCorrect": false},
+          {"text": "30.000 km", "isCorrect": false},
+          {"text": "40.000 km", "isCorrect": true}
+        ]
+      },
+      {
+        "soru": "Dünyada toplam kaç ülke vardır?",
+        "siklar": [
+          {"text": "100", "isCorrect": false},
+          {"text": "150", "isCorrect": false},
+          {"text": "200", "isCorrect": true},
+          {"text": "250", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Dünyadaki en küçük metrekareye sahip ülke neresidir?",
+        "siklar": [
+          {"text": "Monako", "isCorrect": true},
+          {"text": "Maldivler", "isCorrect": false},
+          {"text": "Vatikan", "isCorrect": false},
+          {"text": "Nauru", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Erozyon nedir?",
+        "siklar": [
+          {"text": "Toprak aşınması", "isCorrect": true},
+          {"text": "Rüzgar hareketleri", "isCorrect": false},
+          {"text": "Deprem sonrası yıkımlar", "isCorrect": false},
+          {"text": "Su buharının yoğunlaşması", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Türkiye'de erozyona uğramış yer neresidir?",
+        "siklar": [
+          {"text": "Kapadokya", "isCorrect": true},
+          {"text": "Pamukkale", "isCorrect": false},
+          {"text": "Nemrut Dağı", "isCorrect": false},
+          {"text": "Hazar Gölü", "isCorrect": false}
+        ]
+      },
+      {
+        "soru": "Tuz Gölü kaç metrekaredir?",
+        "siklar": [
+          {"text": "1000 km²", "isCorrect": false},
+          {"text": "2000 km²", "isCorrect": false},
+          {"text": "3000 km²", "isCorrect": false},
+          {"text": "4000 km²", "isCorrect": true}
+        ]
+      }
+    
+    
+
+
+  
+
+
+
+
+
+
+
+]

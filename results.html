@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Honk&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Sonuçları</title>
+    <link rel="stylesheet" href="score.css">
+</head>
+<body>
+    <div class="container"> 
+        <div id="results">
+            <h1>Test Sonuçları</h1>
+            <p>Doğru Cevap Sayısı: <span id="correct"></span></p>
+            <p>Yanlış Cevap Sayısı: <span id="incorrect"></span></p>
+            <p>Toplam Puan: <span id="score"></span></p>
+            <p>Toplam Süre: <span id="totalTime"></span></p>
+        </div>
+
+        <a href="index.html">İndexe Dön</a>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+            const correctAnswers = sessionStorage.getItem('correctAnswers');
+            const incorrectAnswers = sessionStorage.getItem('incorrectAnswers');
+            const score = sessionStorage.getItem('score');
+            const totalTime = sessionStorage.getItem('totalTime');
+
+            document.getElementById('correct').textContent = correctAnswers;
+            document.getElementById('incorrect').textContent = incorrectAnswers;
+            document.getElementById('score').textContent = score;
+            document.getElementById('totalTime').textContent = totalTime + ' saniye';
+        });
+
+    </script>
+</body>
+</html>

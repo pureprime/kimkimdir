@@ -1,0 +1,94 @@
+[
+    {
+      "question": "Afrika'da toplam kaç çeşit hayvan türü bulunmaktadır?",
+      "options": [
+        {"text": "1.500", "isCorrect": false},
+        {"text": "3.000", "isCorrect": false},
+        {"text": "5.000", "isCorrect": true},
+        {"text": "7.000", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Antarktika hangi kaşif tarafından keşfedilmiştir?",
+      "options": [
+        {"text": "Ferdinand Magellan", "isCorrect": false},
+        {"text": "James Cook", "isCorrect": false},
+        {"text": "Roald Amundsen", "isCorrect": false},
+        {"text": "Robert Scott", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Dünyada ilk toprak tapusu hangi ülkeye aittir?",
+      "options": [
+        {"text": "Türkiye", "isCorrect": false},
+        {"text": "İngiltere", "isCorrect": false},
+        {"text": "Fransa", "isCorrect": false},
+        {"text": "Mısır", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "İngiliz kraliyet ailesinde en çok tekrarlanan isim hangisidir?",
+      "options": [
+        {"text": "Elizabeth", "isCorrect": true},
+        {"text": "Charles", "isCorrect": false},
+        {"text": "Victoria", "isCorrect": false},
+        {"text": "Edward", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Bir yılda kaç mevsim vardır?",
+      "options": [
+        {"text": "2", "isCorrect": false},
+        {"text": "3", "isCorrect": true},
+        {"text": "4", "isCorrect": false},
+        {"text": "5", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Hangi gezegen Güneş Sistemi'ndeki en büyük gezegendir?",
+      "options": [
+        {"text": "Mars", "isCorrect": false},
+        {"text": "Jüpiter", "isCorrect": true},
+        {"text": "Dünya", "isCorrect": false},
+        {"text": "Satürn", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Türkiye'nin başkenti hangi şehirdir?",
+      "options": [
+        {"text": "Ankara", "isCorrect": true},
+        {"text": "İstanbul", "isCorrect": false},
+        {"text": "İzmir", "isCorrect": false},
+        {"text": "Bursa", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Hangi elementin sembolü 'Fe'dir?",
+      "options": [
+        {"text": "Demir", "isCorrect": true},
+        {"text": "Bakır", "isCorrect": false},
+        {"text": "Altın", "isCorrect": false},
+        {"text": "Çinko", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Hangi dil İngilizce ile en yakın akrabadır?",
+      "options": [
+        {"text": "Almanca", "isCorrect": false},
+        {"text": "Hollandaca", "isCorrect": false},
+        {"text": "Lehçe", "isCorrect": false},
+        {"text": "Frisian", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Hangi filmde 'Luke, Ben. Ben! Ben Kenobi' repliği geçer?",
+      "options": [
+        {"text": "Yıldız Savaşları: İmparator", "isCorrect": false},
+        {"text": "Yıldız Savaşları: Yeni Bir Umut", "isCorrect": true},
+        {"text": "Yıldız Savaşları: Güç Uyanıyor", "isCorrect": false},
+        {"text": "Yıldız Savaşları: Jedi'ın Dönüşü", "isCorrect": false}
+      ]
+    }
+  ]
+  
+  
